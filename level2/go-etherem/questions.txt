@@ -1,0 +1,12 @@
+包不存在 "github.com/ethereum/go-ethereum/crypto/sha3"
+没有有效privateKey
+HTTP status 410 Gone "wss://ropsten.infura.io/ws"
+
+rawTxBytes := ts.GetRlp(0)
+
+version, err := instance.Version(nil)   
+2024/12/14 18:24:20 403 Forbidden
+exit status 1 
+
+函数不存在
+contractAbi.Unpack(&transferEvent, "Transfer", vLog.Data)
